@@ -1,2 +1,2 @@
 # Space-Invaders
-Own Space Invaders versión
+A modified version of the classic Space Invaders developed in C for Nintendo DS console.
